@@ -28,12 +28,12 @@
         "@grpc/grpc-js": "^1.5.2",
         "@grpc/proto-loader": "^0.6.9",
         "cors": "^2.8.5",
-        "express": "^4.17.1",
+        "express": "^4.21.2",
         "google-protobuf": "^3.19.3"
     },
     "devDependencies": {
         "nodemon": "^2.0.7",
         "npm-run-all": "^4.1.5",
-        "serve": "^14.2.4"
+        "serve": "^10.0.2"
     }
 }
